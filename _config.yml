@@ -27,7 +27,7 @@ baseurl: ""
 header-img: static/app/res/img/home-bg.jpeg
 
 # github
-github_username:  houbb
+github_username:  shenkaige123
 ###################### END 站点全局信息 #########################
 
 
@@ -86,7 +86,7 @@ defaults:
       path: "" # 一个空的字符串代表项目中所有的文件
     values:
       layout: "post"
-      author: "houbb"
+      author: "shenkaige123"
 
 
 
